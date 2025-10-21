@@ -96,8 +96,8 @@ DELETE /strings/{string_value}
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd string-analyzer-api
+git clone https://github.com/Olu433/backend-wizard-stage1
+cd s backend-wizards-stage1
 ```
 
 2. **Install dependencies**
